@@ -1,0 +1,10 @@
+/Users/islamelshakhs/Desktop/DSAA3/DSAA3/bin/Debug/netcoreapp3.1/DSAA3.deps.json
+/Users/islamelshakhs/Desktop/DSAA3/DSAA3/bin/Debug/netcoreapp3.1/DSAA3.dll
+/Users/islamelshakhs/Desktop/DSAA3/DSAA3/bin/Debug/netcoreapp3.1/DSAA3.pdb
+/Users/islamelshakhs/Desktop/DSAA3/DSAA3/obj/Debug/netcoreapp3.1/DSAA3.csproj.AssemblyReference.cache
+/Users/islamelshakhs/Desktop/DSAA3/DSAA3/obj/Debug/netcoreapp3.1/DSAA3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/islamelshakhs/Desktop/DSAA3/DSAA3/obj/Debug/netcoreapp3.1/DSAA3.AssemblyInfoInputs.cache
+/Users/islamelshakhs/Desktop/DSAA3/DSAA3/obj/Debug/netcoreapp3.1/DSAA3.AssemblyInfo.cs
+/Users/islamelshakhs/Desktop/DSAA3/DSAA3/obj/Debug/netcoreapp3.1/DSAA3.csproj.CoreCompileInputs.cache
+/Users/islamelshakhs/Desktop/DSAA3/DSAA3/obj/Debug/netcoreapp3.1/DSAA3.dll
+/Users/islamelshakhs/Desktop/DSAA3/DSAA3/obj/Debug/netcoreapp3.1/DSAA3.pdb
